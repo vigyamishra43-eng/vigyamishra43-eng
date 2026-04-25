@@ -8,18 +8,18 @@ India
 
 ## About Me
 - Currently learning Full Stack Development
-- Practicing Data Structures & Algorithms
-- Building projects using Node.js, Express & MongoDB
+- Practicing Data Structures and Algorithms
+- Building projects using Node.js, Express and MongoDB
 - Goal: Become a strong full-stack developer
 
 ---
 
 ## Tech Stack
-- C++, JavaScript  
-- HTML, CSS  
-- Node.js, Express.js  
-- MongoDB  
-- Git, GitHub, VS Code  
+C++, JavaScript  
+HTML, CSS  
+Node.js, Express.js  
+MongoDB  
+Git, GitHub, VS Code  
 
 ---
 
@@ -35,9 +35,9 @@ https://github.com/vigyamishra43-eng/recipe-explorer
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=vigyamishra43-eng&show_icons=true&theme=default)
+![stats](https://github-readme-stats.vercel.app/api?username=vigyamishra43-eng&show_icons=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigyamishra43-eng&layout=compact&theme=default)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigyamishra43-eng&layout=compact)
 
 ---
 
@@ -48,5 +48,5 @@ GitHub: https://github.com/vigyamishra43-eng
 
 ---
 
-**
-I am learning, building and improving every day.
+## Additional Information
+Actively learning and building real-world projects to improve development skills.

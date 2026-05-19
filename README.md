@@ -1,7 +1,7 @@
-# Hi, I'm Vigya Mishra
+# Hi, I'm Vigya Mishra 
 
 Web Developer (Learning Full Stack)  
-2nd Year B.Tech Student  
+2nd Year B.Tech CSE Student  
 India  
 
 ---
@@ -9,40 +9,70 @@ India
 ## About Me
 - Currently learning Full Stack Development
 - Practicing Data Structures and Algorithms
-- Building projects using Node.js, Express and MongoDB
-- Goal: Become a strong full-stack developer
+- Building backend projects using Node.js and MongoDB
+- Interested in Web Development and Problem Solving
+- Goal: Become a strong Full Stack Developer
 
 ---
 
 ## Tech Stack
-C++, JavaScript  
-HTML, CSS  
-Node.js, Express.js  
-MongoDB  
-Git, GitHub, VS Code  
+
+### Languages
+- C++
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ## Projects
 
 ### Expense Tracker App
-https://github.com/vigyamishra43-eng/expense-tracker  
+A full-stack expense tracking application with MongoDB integration.
+
+🔗 https://github.com/vigyamishra43-eng/expense-tracker  
 
 ### Recipe Explorer App
-https://github.com/vigyamishra43-eng/recipe-explorer  
+A recipe management and exploration app with authentication features.
+
+🔗 https://github.com/vigyamishra43-eng/recipe-explorer  
 
 ---
 
-## GitHub Stats
+## Currently Learning
+- React.js
+- REST APIs
+- Backend Development
+- DSA for Interviews
 
-<img src="https://github-readme-stats.vercel.app/api?username=vigyamishra43-eng" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyamishra43-eng&layout=compact" />
+## Goals for 2026
+- Get a Web Development Internship
+- Build More Full Stack Projects
+- Improve Problem Solving Skills
+- Contribute to Open Source
+
 ---
 
 ## Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/vigya-mishra-b1b839336/  
+
 GitHub: https://github.com/vigyamishra43-eng  
 
 ---

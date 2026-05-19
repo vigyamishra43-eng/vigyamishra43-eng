@@ -35,10 +35,9 @@ https://github.com/vigyamishra43-eng/recipe-explorer
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=vigyamishra43-eng&show_icons=true)
+![Vigya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigyamishra43-eng&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigyamishra43-eng&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigyamishra43-eng&layout=compact&theme=tokyonight)
 ---
 
 ## Connect with Me

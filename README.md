@@ -1,6 +1,6 @@
 # Hi, I'm Vigya Mishra 
 
-Web Developer|
+Web Developer |
 3rd Year | B.Tech | CSE Student  
 India  
 

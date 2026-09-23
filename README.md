@@ -1,6 +1,6 @@
 # Hi, I'm Vigya Mishra 
 
-Web Developer (Learning Full Stack)  
+Web Developer 
 3rd Year | B.Tech | CSE Student  
 India  
 
